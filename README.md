@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Learnwebsite/assets/images/html5.png" alt="HTML5 (HyperText Markup Language) Essentials logo" title="HTML5 (HyperText Markup Language) Essentials" width="200" />
+    <img src="Learnwebsite/Website_Development_Basic/assets/images/html5.png" alt="HTML5 (HyperText Markup Language) Essentials logo" title="HTML5 (HyperText Markup Language) Essentials" width="200" />
 </p>
 
 HTML5 Essentials
