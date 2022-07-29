@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="_examples-html5-essentials/assets/images/html5.png" alt="HTML5 (HyperText Markup Language) Essentials logo" title="HTML5 (HyperText Markup Language) Essentials" width="200" />
+    <img src="Learnwebsite/assets/images/html5.png" alt="HTML5 (HyperText Markup Language) Essentials logo" title="HTML5 (HyperText Markup Language) Essentials" width="200" />
 </p>
 
 HTML5 Essentials
@@ -98,7 +98,7 @@ Section 2. Introducing HTML
     
 <p>
   <figure>
-    &nbsp;&nbsp;&nbsp; <img src="./_examples-html5-essentials/assets/images/browers_all_2.png" alt="Widely used modern browsers image" title="Widely used modern browsers" width="400" border="2" />
+    &nbsp;&nbsp;&nbsp; <img src="./Learnwebsite/assets/images/browers_all_2.png" alt="Widely used modern browsers image" title="Widely used modern browsers" width="400" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Widely used modern browsers</figcaption>
   </figure>
 </p>
